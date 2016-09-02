@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 2,
   "name": "Pumpkin Spice Filter",
   "version": "1.0",
   "description": "Remove's pumpkin spice from the Internet.",
