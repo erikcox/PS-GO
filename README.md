@@ -15,6 +15,9 @@ Features
 * Attempts to identify semantically sections of the page likely to contain pumpkin spice and removes them from the page.
 * Sensitivity settings to customize the aggressiveness of the filter - remove single references, chunks or the entire page.
 
+![extension](images/extension.png)
+
+![options](images/options.png)
 
 Getting Started
 --------------------------
