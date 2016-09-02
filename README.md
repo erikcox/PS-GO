@@ -59,4 +59,3 @@ This project is licensed under the terms of the MIT license.
 Acknowledgments
 -------------------------
 * Forked from [Rob Spectre's Trump Filter](https://github.com/RobSpectre/Trump-Filter).
-* This work is licensed under GPLv3.
